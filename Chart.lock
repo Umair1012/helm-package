@@ -1,0 +1,9 @@
+dependencies:
+- name: flask-app
+  repository: file://charts/flask-app
+  version: 0.1.0
+- name: nginx-app
+  repository: file://charts/nginx-app
+  version: 0.1.0
+digest: sha256:5d6bf5e0b11b65348be22e96e1918d52ccf7208497ff2071bdc2d7dd8e458740
+generated: "2025-10-15T10:16:30.535896306Z"
